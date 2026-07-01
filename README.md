@@ -95,6 +95,60 @@ http://localhost/Hospital%20Management%20System/
 ### Lab Report Table in phpMyAdmin
 ![Lab Report Table](lab-report-table.png)
 
+### Add Prescription Page
+![Add Prescription Page](add-prescription.png)
+
+### Add Room Page
+![Add Room Page](add-room.png)
+
+### Add Staff Page
+![Add Staff Page](add-staff.png)
+
+### Add Surgeries Page
+![Add Surgeries Page](add-surgeries.png)
+
+### Database File (hospital_management_system.sql)
+![Database File](hospital-management-sql.png)
+
+### Insert Appointment Functionality
+![Insert Appointment](insert-appointment.png)
+
+### Insert Department Functionality
+![Insert Department](insert-department.png)
+
+### Insert Doctor Functionality
+![Insert Doctor](insert-doctor.png)
+
+### Insert Lab Report Functionality
+![Insert Lab Report](insert-lab-report.png)
+
+### Insert Medical Charges Functionality
+![Insert Medical Charges](insert-medical-charges.png)
+
+### Insert Medical Records Functionality
+![Insert Medical Records](insert-medical-records.png)
+
+### Insert Patient Functionality
+![Insert Patient](insert-patient.png)
+
+### Insert Prescription Functionality
+![Insert Prescription](insert-prescription.png)
+
+### Insert Room Functionality
+![Insert Room](insert-room.png)
+
+### Insert Staff Functionality
+![Insert Staff](insert-staff.png)
+
+### Insert Surgery Functionality
+![Insert Surgery](insert-surgery.png)
+
+### Medical Charges Page
+![Medical Charges Page](medical-charges.png)
+
+### Database Connection Test
+![Database Connection Test](test-connection.png)
+
 
 
 
