@@ -72,6 +72,33 @@ Hospital Management System/
 http://localhost/Hospital%20Management%20System/
 
 
+## 📸 Screenshots
+
+### Home Page
+![Home Page](home.png)
+
+### Add Patient Page
+![Add Patient](add-patient.png)
+
+### Add Doctor Page
+![Add Doctor](add-doctor.png)
+
+### Add Department Page
+![Add Department](add-department.png)
+
+### Add Appointment Page
+![Add Appointment](add-appointment.png)
+
+### Department Table in phpMyAdmin
+![Department Table](department-table.png)
+
+### Lab Report Table in phpMyAdmin
+![Lab Report Table](lab-report-table.png)
+
+### SQL Query Execution in phpMyAdmin
+![SQL Query](sql-query.png)
+
+
 ## Author
 
 **Armish Iqbal**
