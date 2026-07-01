@@ -74,8 +74,8 @@ http://localhost/Hospital%20Management%20System/
 
 ## 📸 Screenshots
 
-### Home Page
-![Home Page](home.png)
+### SQL Query Execution in phpMyAdmin
+![SQL Query](sql-query.png)
 
 ### Add Patient Page
 ![Add Patient](add-patient.png)
@@ -95,8 +95,7 @@ http://localhost/Hospital%20Management%20System/
 ### Lab Report Table in phpMyAdmin
 ![Lab Report Table](lab-report-table.png)
 
-### SQL Query Execution in phpMyAdmin
-![SQL Query](sql-query.png)
+
 
 
 ## Author
