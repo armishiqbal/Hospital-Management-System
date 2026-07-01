@@ -77,6 +77,7 @@ http://localhost/Hospital%20Management%20System/
 **Armish Iqbal**
 BS Computer Science Student
 Islamia University Bahawalpur
+GitHub: https://github.com/armishiqbal
 
 
 
