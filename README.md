@@ -87,10 +87,10 @@ http://localhost/Hospital%20Management%20System/
 ![Add Department](add-department.png)
 
 ### Add Appointment Page
-![Add Appointment](add-appointment.png)
+![Add Appointment](book-appointment.png)
 
 ### Department Table in phpMyAdmin
-![Department Table](department-table.png)
+![Department Table](add-department.png)
 
 ### Lab Report Table in phpMyAdmin
 ![Lab Report Table](lab-report-table.png)
