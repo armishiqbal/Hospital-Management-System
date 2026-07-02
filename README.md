@@ -99,13 +99,13 @@ http://localhost/Hospital%20Management%20System/
 ![Add Prescription Page](add-prescription.png)
 
 ### Add Room Page
-![Add Room Page](add-room.png)
+![Add Room Page](add-new-room.png)
 
 ### Add Staff Page
-![Add Staff Page](add-staff.png)
+![Add Staff Page](add-staff-member.png)
 
 ### Add Surgeries Page
-![Add Surgeries Page](add-surgeries.png)
+![Add Surgeries Page](add-surgery.png)
 
 
 
