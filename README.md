@@ -39,6 +39,7 @@ A comprehensive, web-based **Hospital Management System** developed using **PHP*
 
 ```text
 Hospital Management System/
+├── screenshots/                # Application UI Screenshots & Database Verification
 ├── index.html                  # Main Hospital Management System Dashboard
 ├── database.sql                # Complete MySQL Database Schema & Sample Data
 ├── db.php                      # Centralized Database Connection Configuration
@@ -112,37 +113,37 @@ Access the main hospital portal:
 ## 📸 Screenshots
 
 ### Portal Dashboard (`index.html`) & phpMyAdmin SQL Query Execution
-![SQL Query](sql-query.png)
+![SQL Query](screenshots/sql-query.png)
 
 ### Add Patient Page
-![Add Patient](add-patient.png)
+![Add Patient](screenshots/add-patient.png)
 
 ### Add Doctor Page
-![Add Doctor](add-doctor.png)
+![Add Doctor](screenshots/add-doctor.png)
 
 ### Add Department Page
-![Add Department](add-department.png)
+![Add Department](screenshots/add-department.png)
 
 ### Book Appointment Page
-![Add Appointment](book-appointment.png)
+![Add Appointment](screenshots/book-appointment.png)
 
 ### Lab Report Form
-![Lab Report Form](lab-report-table.png)
+![Lab Report Form](screenshots/lab-report-table.png)
 
 ### Add Prescription Page
-![Add Prescription Page](add-prescription.png)
+![Add Prescription Page](screenshots/add-prescription.png)
 
 ### Add Room Page
-![Add Room Page](add-new-room.png)
+![Add Room Page](screenshots/add-new-room.png)
 
 ### Add Staff Member Page
-![Add Staff Page](add-staff-member.png)
+![Add Staff Page](screenshots/add-staff-member.png)
 
 ### Add Surgery Page
-![Add Surgery Page](add-surgery.png)
+![Add Surgery Page](screenshots/add-surgery.png)
 
 ### Add Medical Record Page
-![Medical Record](medical-record.png)
+![Medical Record](screenshots/medical-record.png)
 
 ---
 
